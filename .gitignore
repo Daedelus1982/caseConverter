@@ -1,0 +1,10 @@
+/node_modules/
+/course-info.yaml
+/course-remote-info.yaml
+/package.json
+/package-lock.json
+/Case Converter/The converter/
+/Case Converter/lesson-info.yaml
+/Case Converter/Upper or lower/
+/Case Converter/Save me/
+.idea
